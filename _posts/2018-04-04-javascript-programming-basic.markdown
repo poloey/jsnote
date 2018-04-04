@@ -27,6 +27,8 @@ layout: post
 1. parseInt()
 1. parseFloat()
 1. Number.isNaN()
+1. toString() // casting to string 
+
 
 
 Technically, only objects have properties and methods. JavaScript overcomes this by creating wrapper objects for primitive data types. This all happens in the background, so for all intents and purposes it appears that primitive data types also have properties and methods.
